@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD Computer Science / Theoretical Neuroscience, International Max Planck Research School for Intelligent Systems, 2025 (expected)
+* PhD Theoretical Neuroscience, International Max Planck Research School for Intelligent Systems, 2025 (expected)
 * MSc Artificial Intelligence, University of Edinburgh, 2019
-* BSc Mathematics, University of Athens, 2014
+* BSc Mathematics, University of Athens, 2018
 
 Experience
 ======
