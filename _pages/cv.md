@@ -20,7 +20,7 @@ Experience
 * 2019 - 2020: Ocado Technology
   * Software Engineer - Simulation team
   
-Publications
+Main Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
