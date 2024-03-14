@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Recurrent connectivity structure controls the emergence of co-tuned excitation and inhibition"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Summary.'
+date: 2023-02-28
+venue: 'bioRxiv'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Giannakakis E, Vinogradov O, Buendia V, and Levina A. The topology of E/I recurrent networks
+regulates the effects of synaptic plasticity. 2023'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Paper Summary
