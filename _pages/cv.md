@@ -17,6 +17,9 @@ Education
 
 Experience
 ======
+* 2020 - 2025: Max Planck Institute for Biological Cybernetics
+  * Doctoral researcher in the group of Anna Levina
+
 * 2019 - 2020: Ocado Technology
   * Software Engineer - Simulation team
   
@@ -26,6 +29,3 @@ Main Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
     
-Other
-======
-* Other
